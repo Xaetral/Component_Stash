@@ -1,5 +1,13 @@
 # Component_Stash
 
+### DAC
+SOT-23-6, SPI: AD5320
+
+### MCU:
+TQFP, can do USB without XTAL: STM32F072  
+SOT-23-6: ATtiny10  
+SOT-23-6, cheapest ever: PMS150C  
+
 ### Power:
 Tiny SMPS with integrated inductor: MPM3834C, TPSM82866A  
 LDO: MIC5504  
@@ -7,10 +15,6 @@ LDO: MIC5504
 ### Transistors:
 Generic SOT-23-3 NMOS: NX7002AKVL  
 
-### MCU:
-TQFP, can do USB without XTAL: STM32F072  
-SOT-23-6: ATtiny10  
-SOT-23-6, cheapest ever: PMS150C  
 
 ### To Test:
 ADP151, ADP7112, ADP7157  
