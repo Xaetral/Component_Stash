@@ -10,7 +10,7 @@ SOT-23-6, cheapest ever: PMS150C
 
 ### Power:
 Tiny SMPS with integrated inductor: MPM3834C, TPSM82866A  
-LDO: MIC5504  
+LDO, SOT-23-5: MIC5504  
 BMS, SOT-23-6: MCP73871  
 
 ### Transistors:
