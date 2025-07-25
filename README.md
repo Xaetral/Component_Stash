@@ -1,4 +1,4 @@
-# Component_Stash
+# Component Stash
 
 ### DAC
 SOT-23-6, SPI: AD5320  
